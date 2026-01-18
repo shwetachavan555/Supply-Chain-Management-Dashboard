@@ -8,3 +8,4 @@ The objective of this project is to create a comprehensive Supply Chain Manageme
 ![image alt](https://github.com/shwetachavan555/Supply-Chain-Management-Dashboard/blob/e1d8c67c9a1c8fbb81eac9e47d02ce8d2794ff45/Screenshot%202026-01-18%20172951.png)
 #link for Tablue dashboard 
 [Supply Chain Management Dashboard 1 New.twbx](https://github.com/shwetachavan555/Supply-Chain-Management-Dashboard/blob/e1d8c67c9a1c8fbb81eac9e47d02ce8d2794ff45/Supply%20Chain%20Management%20Dashboard%201%20New.twbx)
+[Supply chain management dashboard 2.twbx](https://github.com/shwetachavan555/Supply-Chain-Management-Dashboard/blob/45258a0beb40b790d7ce7e508cffc34d39f723c6/Supply%20chain%20management%20dashboard%202.twbx)
